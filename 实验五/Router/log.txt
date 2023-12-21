@@ -1,0 +1,25 @@
+Íø¿¨1	ÃèÊöÐÅÏ¢£ºNetwork adapter 'WAN Miniport (Network Monitor)' on local host
+Íø¿¨2	ÃèÊöÐÅÏ¢£ºNetwork adapter 'WAN Miniport (IPv6)' on local host
+Íø¿¨3	ÃèÊöÐÅÏ¢£ºNetwork adapter 'WAN Miniport (IP)' on local host
+Íø¿¨4	ÃèÊöÐÅÏ¢£ºNetwork adapter 'Hyper-V Virtual Ethernet Adapter' on local host
+Íø¿¨5	ÃèÊöÐÅÏ¢£ºNetwork adapter 'Bluetooth Device (Personal Area Network)' on local host
+Íø¿¨6	ÃèÊöÐÅÏ¢£ºNetwork adapter 'Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter' on local host
+Íø¿¨7	ÃèÊöÐÅÏ¢£ºNetwork adapter 'VMware Virtual Ethernet Adapter for VMnet8' on local host
+Íø¿¨8	ÃèÊöÐÅÏ¢£ºNetwork adapter 'VMware Virtual Ethernet Adapter for VMnet1' on local host
+Íø¿¨9	ÃèÊöÐÅÏ¢£ºNetwork adapter 'Microsoft Wi-Fi Direct Virtual Adapter #2' on local host
+Íø¿¨10	ÃèÊöÐÅÏ¢£ºNetwork adapter 'Microsoft Wi-Fi Direct Virtual Adapter' on local host
+Íø¿¨11	ÃèÊöÐÅÏ¢£ºNetwork adapter 'Adapter for loopback traffic capture' on local host
+Íø¿¨12	ÃèÊöÐÅÏ¢£ºNetwork adapter 'Realtek PCIe GbE Family Controller' on local host
+Íø¿¨1	ÃèÊöÐÅÏ¢£ºNetwork adapter 'WAN Miniport (Network Monitor)' on local host
+Íø¿¨2	ÃèÊöÐÅÏ¢£ºNetwork adapter 'WAN Miniport (IPv6)' on local host
+Íø¿¨3	ÃèÊöÐÅÏ¢£ºNetwork adapter 'WAN Miniport (IP)' on local host
+Íø¿¨4	ÃèÊöÐÅÏ¢£ºNetwork adapter 'Hyper-V Virtual Ethernet Adapter' on local host
+Íø¿¨5	ÃèÊöÐÅÏ¢£ºNetwork adapter 'Bluetooth Device (Personal Area Network)' on local host
+Íø¿¨6	ÃèÊöÐÅÏ¢£ºNetwork adapter 'Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter' on local host
+Íø¿¨7	ÃèÊöÐÅÏ¢£ºNetwork adapter 'VMware Virtual Ethernet Adapter for VMnet8' on local host
+Íø¿¨8	ÃèÊöÐÅÏ¢£ºNetwork adapter 'VMware Virtual Ethernet Adapter for VMnet1' on local host
+Íø¿¨9	ÃèÊöÐÅÏ¢£ºNetwork adapter 'Microsoft Wi-Fi Direct Virtual Adapter #2' on local host
+Íø¿¨10	ÃèÊöÐÅÏ¢£ºNetwork adapter 'Microsoft Wi-Fi Direct Virtual Adapter' on local host
+Íø¿¨11	ÃèÊöÐÅÏ¢£ºNetwork adapter 'Adapter for loopback traffic capture' on local host
+Íø¿¨12	ÃèÊöÐÅÏ¢£ºNetwork adapter 'Realtek PCIe GbE Family Controller' on local host
+´ò¿ªÍø¿¨6
